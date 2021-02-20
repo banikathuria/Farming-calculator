@@ -1,0 +1,15 @@
+body
+{
+  background-color:pink;
+  text-align:center;
+}
+body{
+text-align:center;
+}
+.No{
+background-color:cyan;
+border-width:1.5px;
+border-radius:20px;
+}
+#add{
+font-size:18px;
